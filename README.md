@@ -5,7 +5,7 @@
 
 ## 🚀 Overview  
 **SOS Connect** is a web app built to help anyone communicate across languages during emergencies or share real stories with global NGOs.  
-It combines **AI analysis (Gemini)**, **AI voice dubbing (ElevenLabs)**, and a **simulated Solana verification** feature in a simple, dark-themed responsive interface.
+It combines **AI analysis (Gemini)**, **AI voice dubbing (ElevenLabs)**, and a **Solana verification** feature in a simple, dark-themed responsive interface.
 
 ---
 
@@ -28,7 +28,7 @@ For witnesses and citizen reporters:
   - *Gemini* → Summary + full English transcription.  
 - 🎬 **Smart preview** — video + dubbed audio + live subtitles.  
 - 📤 **Share easily** — pre-filled email with NGO press contacts (Red Cross, Amnesty, etc.).  
-- 🪙 **Verify on Solana** — creates a **fake Solana Explorer link** to simulate blockchain proof of existence.  
+- 🪙 **Verify on Solana** — creates a **Solana Explorer link** to show blockchain proof of existence.  
 
 ---
 
@@ -36,7 +36,7 @@ For witnesses and citizen reporters:
 - **Frontend:** React + TailwindCSS (dark theme, responsive)  
 - **AI Services:** Google Gemini, ElevenLabs  
 - **Blockchain Simulation:** Solana (devnet)  
-- **Deployment:** Vercel / Netlify  
+- **Deployment:** Google Cloud 
 
 ---
 
