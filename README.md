@@ -1,22 +1,61 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🆘 SOS Connect
 
-# SOSConnect
+Breaking language barriers in emergencies and global storytelling.
 
-## Run and deploy your AI Studio app
+🚀 Overview
 
-This contains everything you need to run your app locally.
+SOS Connect is a web app built to help anyone communicate across languages during emergencies or share real stories with global NGOs.
+It combines AI analysis (Gemini), AI voice dubbing (ElevenLabs), and a simulated Solana verification feature in a simple, dark-themed responsive interface.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1oQbvvPja2o0zJW-I-6izl3jJpPId_IBh
+🔴 SOS Emergency Beacon
 
-## Run Locally
+For life-threatening situations:
 
-**Prerequisites:**  Node.js
+📍 Auto-location detection — gets the user’s city, country, and local language.
 
+🎙️ Media capture — record or upload video/audio to describe the emergency.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🧠 AI analysis (Gemini) — generates a structured SOS report (context, danger type, needs).
+
+🌐 Auto-translation — converts the user’s message into the local language.
+
+⏱️ Quick Send — opens a pre-filled SMS to local authorities.
+
+🩹 Full Report Mode — adds first-aid instructions with AI-generated images.
+
+🟢 Share Your Story to NGOs
+
+For witnesses and citizen reporters:
+
+🎥 Upload or record a video of a local story.
+
+🤖 Dual AI process:
+
+ElevenLabs → English voice dubbing (lip-sync).
+
+Gemini → Summary + full English transcription.
+
+🎬 Smart preview — video + dubbed audio + live subtitles.
+
+📤 Share easily — pre-filled email with NGO press contacts (Red Cross, Amnesty, etc.).
+
+🪙 Verify on Solana — creates a fake Solana Explorer link to simulate blockchain proof of existence.
+
+🧩 Tech Stack
+
+Frontend: React + TailwindCSS (dark theme, responsive)
+
+AI Services: Google Gemini, ElevenLabs
+
+Blockchain Simulation: Solana (devnet)
+
+Deployment: Vercel / Netlify
+
+💡 Mission
+
+Empower every person — in any language, anywhere — to be heard, helped, and believed.
+
+🧠 Authors
+
+Project by: Jules & Louis
+Built for Hack.COMS
