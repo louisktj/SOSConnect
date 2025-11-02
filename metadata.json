@@ -1,0 +1,9 @@
+{
+  "name": "SOSConnect",
+  "description": "SOSConnect breaks language barriers in global emergencies and community news sharing. It uses AI to transcribe, translate, and contextualize audio/video messages, connecting users with local authorities or global news networks.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
