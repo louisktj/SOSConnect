@@ -1,6 +1,6 @@
 
 <img width="600" height="400" alt="Screenshot 2025-11-04 at 3 34 05 PM" src="https://github.com/user-attachments/assets/74194f89-1de7-471e-8b66-f4a0265724cf" />
-<img width="400" height="300" alt="Screenshot 2025-11-04 at 3 34 41 PM" src="https://github.com/user-attachments/assets/a6e39325-b751-430e-afc5-e27406df24fe" />
+<img width="300" height="500" alt="Screenshot 2025-11-04 at 3 34 41 PM" src="https://github.com/user-attachments/assets/a6e39325-b751-430e-afc5-e27406df24fe" />
 
 # 🆘 SOS Connect  
 **Breaking language barriers in emergencies and global storytelling.**
